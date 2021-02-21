@@ -21,18 +21,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="157.72262"
-     inkscape:cy="146.81478"
+     inkscape:zoom="2"
+     inkscape:cx="36.355954"
+     inkscape:cy="190.11618"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:snap-bbox="true"
-     inkscape:window-width="841"
-     inkscape:window-height="1390"
-     inkscape:window-x="1938"
-     inkscape:window-y="207"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="1080"
+     inkscape:window-y="240"
      inkscape:window-maximized="0"
      inkscape:document-rotation="0">
     <inkscape:grid
@@ -1811,7 +1811,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5439,7 +5439,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="display:inline;opacity:0.733083"
+     style="display:none;opacity:0.733083"
      transform="translate(0,-19)"
      inkscape:label="Borders"
      id="layer2"

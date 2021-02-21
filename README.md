@@ -28,8 +28,7 @@ Depending on your windows manager you may need to reload certain windows for the
 
 ## Screenshots
 
-TODO: Add screen
-![ascendancy-cursor-theme](https://user-images.githubusercontent.com/6234038/36633597-7dcf9e4e-1990-11e8-8d28-e0495db37c0e.png)
+![ascendancy-cursor-theme](src/cursors.svg?raw=true&sanitize=true "Screenshot of cursors")
 
 
 ## License
