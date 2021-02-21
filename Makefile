@@ -6,16 +6,16 @@ all: clean build
 .PHONY: install
 install: build
 	@mkdir -p ~/.icons
-	@cp -r Breeze_Hacked ~/.icons/Breeze_Hacked
+	@cp -r Ascendancy ~/.icons/Ascendancy
 	@echo ::: INSTALL :::
 
 .PHONY: build
-build: Breeze_Hacked
+build: Ascendancy
 	@echo ::: BUILD :::
 
 .PHONY: clean
-	-@rm -rf build Breeze_Hacked &>/dev/null | true
+	-@rm -rf build Ascendancy&>/dev/null | true
 	@echo ::: CLEAN :::
 
-Breeze_Hacked:
+Ascendancy:
 	@./build.sh

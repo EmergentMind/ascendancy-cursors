@@ -1,12 +1,9 @@
-# breeze-hacked-cursor-theme
+# Ascendancy-Cursors
 
-[![Beerpay](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme/badge.svg?style=beer-square)](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme)
-[![Beerpay](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme/make-wish.svg?style=flat-square)](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme?focus=wish)
-[![GitHub stars](https://img.shields.io/github/stars/jamrizzi/breeze-hacked-cursor-theme.svg?style=social&label=Stars)](https://github.com/jamrizzi/breeze-hacked-cursor-theme)
 
-> Official cursor theme for Jam OS
+This is a fork of the [breeze-hacked-cursor-theme](https://github.com/clayrisser/breeze-hacked-cursor-theme).
 
-Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
+Modifications include a new color scheme and removal of some trivial visual artifacts.
 
 
 ## Features
@@ -17,9 +14,10 @@ Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
 ## Installation
 
-```sh
-make install
-```
+1. Run `make install` in the ascendancy-cursors directory.
+2. After installation, select and apply the cursor theme using a GTK+ theme switching tool such as LXAppearance.
+
+Depending on your windows manager you may need to reload certain windows for the curors to take effect on them.
 
 
 ## Dependencies
@@ -28,50 +26,18 @@ make install
 * [xcursorgen](https://www.x.org/archive/X11R7.7/doc/man/man1/xcursorgen.1.xhtml)
 
 
-## Usage
-
-[Contribute](https://github.com/jamrizzi/breeze-hacked-cursor-theme/blob/master/CONTRIBUTING.md) usage docs
-
-
-## Support
-
-Submit an [issue](https://github.com/jamrizzi/breeze-hacked-cursor-theme/issues/new)
-
-
 ## Screenshots
 
-![breeze-hacked-cursor-theme](https://user-images.githubusercontent.com/6234038/36633597-7dcf9e4e-1990-11e8-8d28-e0495db37c0e.png)
-
-
-## Contributing
-
-Review the [guidelines for contributing](https://github.com/jamrizzi/breeze-hacked-cursor-theme/blob/master/CONTRIBUTING.md)
+TODO: Add screen
+![ascendancy-cursor-theme](https://user-images.githubusercontent.com/6234038/36633597-7dcf9e4e-1990-11e8-8d28-e0495db37c0e.png)
 
 
 ## License
 
-[GPL 2.0 License](https://github.com/jamrizzi/breeze-hacked-cursor-theme/blob/master/LICENSE)
-
-
-## Changelog
-
-Review the [changelog](https://github.com/jamrizzi/breeze-hacked-cursor-theme/blob/master/CHANGELOG.md)
+[GPL 2.0 License](https://github.com/EmergentMind/ascendancy-cursors/blob/master/LICENSE)
 
 
 ## Credits
 
-* Ken Vermette <vermette@gmail.com> - Cursor Author
-* Hugo Pereira Da Costa <hugo.pereira@free.fr> - Kstyle Developer
-* Andrew Lake <jamboarder@gmail.com> - Kstyle Designer
-* Uri Herrera <kaisergreymon99@gmail.com> - Breeze Icon Theme
-* [Jam Risser](https://jam.jamrizzi.com) <jam@jamrizzi.com> - Contributor
-
-
-## Support on Beerpay (actually, I drink coffee)
-
-A ridiculous amount of coffee :coffee: :coffee: :coffee: was consumed in the process of building this project.
-
-[Add some fuel](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme) if you'd like to keep me going!
-
-[![Beerpay](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme/badge.svg?style=beer-square)](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme)
-[![Beerpay](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme/make-wish.svg?style=flat-square)](https://beerpay.io/jamrizzi/breeze-hacked-cursor-theme?focus=wish)
+* Forked from [breeze-hacked-cursor-theme](https://github.com/clayrisser/breeze-hacked-cursor-theme)
+* EmergentMind - Ascendancy modifications
